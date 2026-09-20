@@ -1,0 +1,49 @@
+{
+  "expo": {
+    "name": "Base Converter",
+    "slug": "base-converter-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "backgroundColor": "#ffffff",
+      "image": "./assets/icon.png",
+      "resizeMode": "contain"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.yourname.baseconverter",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.yourname.baseconverter",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "backgroundColor": "#7C4DFF",
+        "foregroundImage": "./assets/icon.png"
+      }
+    },
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "d8bedc6a-4fc1-4548-bfa8-570c0276343b"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/d8bedc6a-4fc1-4548-bfa8-570c0276343b"
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}
