@@ -1,9 +1,7 @@
 BASE CONVERTER APP
 Project Documentation
 Project Title: Base Converter App (Number System Converter)
-Developer: CT00/G/26137/25
-            Kevin Onunga 
-           CT100/G/26246/25
+Developer: CT100/G/26246/25
             Juliana Muiruri
 Kirinyaga University
 Date:21st September 2026
